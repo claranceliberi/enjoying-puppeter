@@ -10,7 +10,7 @@
     "dev":"ts-node-dev app.ts"
   },
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "puppeteer": "^13.0.0"
   },
   "devDependencies": {
     "ts-node": "^10.1.0",
